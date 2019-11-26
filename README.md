@@ -19,7 +19,7 @@ SMS бомбер с приятным веб-интерфейсом.
     ```
 2. Клонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone https://github.com/crinny/b0mb3r
+    git clone https://github.com/MazZz3R/b0mb3r
     cd b0mb3r
     ```
 3. Разрешите зависимости:
